@@ -12,6 +12,7 @@
 		A802B7B1293F30C70091467C /* MainTabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A802B7B0293F30C70091467C /* MainTabBarViewController.swift */; };
 		A802B7B6293F30C80091467C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A802B7B5293F30C80091467C /* Assets.xcassets */; };
 		A802B7B9293F30C80091467C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A802B7B7293F30C80091467C /* LaunchScreen.storyboard */; };
+		A81017322AB1E9E0000135F1 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = A81017312AB1E9E0000135F1 /* README.md */; };
 		A8187D71296D4B30009CDDCD /* SDWebImage in Frameworks */ = {isa = PBXBuildFile; productRef = A8187D70296D4B30009CDDCD /* SDWebImage */; };
 		A8187D73296D4B30009CDDCD /* SDWebImageMapKit in Frameworks */ = {isa = PBXBuildFile; productRef = A8187D72296D4B30009CDDCD /* SDWebImageMapKit */; };
 		A8212CC02972693D00F8794D /* YouTubeSearchResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8212CBF2972693D00F8794D /* YouTubeSearchResponse.swift */; };
@@ -63,6 +64,7 @@
 		A802B7BA293F30C80091467C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A802B7BF293F30C90091467C /* NetFlixCloneTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NetFlixCloneTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A802B7C9293F30C90091467C /* NetFlixCloneUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NetFlixCloneUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A81017312AB1E9E0000135F1 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		A8212CBF2972693D00F8794D /* YouTubeSearchResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YouTubeSearchResponse.swift; sourceTree = "<group>"; };
 		A8212CC12972CE8C00F8794D /* TitlePreviewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitlePreviewViewController.swift; sourceTree = "<group>"; };
 		A8212CC329744B6000F8794D /* TitlePreviewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitlePreviewViewModel.swift; sourceTree = "<group>"; };
@@ -133,6 +135,7 @@
 		A802B7AB293F30C70091467C /* NetFlixClone */ = {
 			isa = PBXGroup;
 			children = (
+				A81017312AB1E9E0000135F1 /* README.md */,
 				A8F3FD43296488E8005F7E5E /* Managers */,
 				A8F3FD40296427F9005F7E5E /* Resources */,
 				A8F3FD3E296427B1005F7E5E /* Models */,
@@ -338,6 +341,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A81017322AB1E9E0000135F1 /* README.md in Resources */,
 				A802B7B9293F30C80091467C /* LaunchScreen.storyboard in Resources */,
 				A802B7B6293F30C80091467C /* Assets.xcassets in Resources */,
 			);
